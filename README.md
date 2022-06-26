@@ -2,7 +2,7 @@
 
 ![Completion badge](https://user-images.githubusercontent.com/87359806/175827968-13ae2c67-7623-47d7-8d72-22072f89fb61.PNG)
 
-Power BI Virtual Case Experience with PwC provides an opportunity to solve real world business scenarios using Power BI.This experince consists of three case studies they are :
+Power BI Virtual Case Experience with PwC provides an opportunity to solve real world business scenarios using Power BI.This experience consists of three case studies they are :
 * Call Centre Trends (Visualising customer and agent behaviour) 
 * Customer Retention (Customer demographics and insights)
 * Diversity & Inclusion (Gender balance in the executive suite)
