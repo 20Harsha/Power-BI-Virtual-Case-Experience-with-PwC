@@ -1,4 +1,4 @@
-# Power-BI-Virtual-Case-Experince-with-PwC
+# Power BI Virtual Case Experince with PwC
 
 ![Completion badge](https://user-images.githubusercontent.com/87359806/175827968-13ae2c67-7623-47d7-8d72-22072f89fb61.PNG)
 
