@@ -15,7 +15,7 @@ This case study deals with the Call Centre Trends. Here, we analyze the number o
 
 # Customer Retention (Customer demographics and insights)
 
-The organisation is keen to know the possible customers who are likely to churn. In this Dashboard, we are analyzing
+The organisation is keen to know the possible customers who are likely to churn. In this Dashboard, we are analyzing:
 * Services for which each customer is signed up for like phone, internet, online security etc.
 * Customer account info like payment method, monthly charges, contract etc.
 * Customer demographics like gender, dependents, partner.
